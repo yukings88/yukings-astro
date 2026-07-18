@@ -1,3 +1,7 @@
+---
+const { currentPage } = Astro.props;
+---
+
 <header class="rsb-header">
   <div class="rsb-container">
     <div class="rsb-header__inner">
@@ -5,7 +9,7 @@
         <img src="img/yukings-logo.png" alt="Yukings noise barrier & sound barrier manufacturer" loading="lazy" style="height:48px;width:auto;display:block">
       </a>
       <nav class="rsb-nav" aria-label="Primary">
-        <a href="/" class="rsb-nav__item" aria-current="${Astro.props.currentPage === 'index' ? 'page' : undefined}">Home</a>
+        <a href="/" class="rsb-nav__item" aria-current={currentPage === 'index' ? 'page' : undefined}>Home</a>
         <span class="rsb-nav__item rsb-nav__dropdown">
           <a href="/products/" class="rsb-nav__link">Products</a>
           <div class="rsb-dropdown">
