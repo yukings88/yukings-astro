@@ -1,0 +1,56 @@
+# Yukings Noise Barrier Website Overview
+# Domain: www.yukings.net
+# Language: English
+
+## Company Overview
+Shenzhen Yukings Industrial Co., Ltd. is a professional noise barrier, sound barrier and acoustic barrier manufacturer based in Shenzhen, China. Established in 2006, with 18+ years OEM experience, 42,000 m² factory, ISO 9001/14001/45001 and CE certified. Exporting to 60+ countries.
+
+## Core Product Categories
+1. Railway Noise Barriers - High-speed rail noise barriers for metro lines, commuter rail and freight corridors (20-45 dB)
+2. Highway Noise Barriers - Heavy-duty noise walls for highways, expressways (20-42 dB)
+3. Solar Noise Barriers - PV-integrated sound barriers generating clean energy while reducing noise (25-35 dB)
+4. Industrial Noise Barriers - Acoustic enclosures and plant perimeter noise barriers (25-45 dB)
+5. Residential Noise Barriers - Aesthetic noise fences for communities (15-35 dB)
+
+## Material Types
+- Galvanized Steel Noise Barriers
+- Aluminum Noise Barriers
+- Transparent PC/Acrylic Noise Barriers
+- Concrete Noise Barriers
+- Micro-perforated Aluminum Noise Fences
+
+## Key Specifications
+- Max Insertion Loss: Up to 45 dB (DL, 200 Hz – 5 kHz)
+- Design Lifespan: 25 years
+- Warranty: 15 years structural warranty
+- IP Rating: IP65-IP66
+- Certifications: CE (EN 1793/EN 1794), ISO 9001/14001/45001
+
+## Site Structure
+- Home: /index.html
+- Products: /products.html
+- Solutions: /solutions.html
+- Projects: /projects.html
+- Blog: /blog.html
+- FAQs: /faqs.html
+- About Us: /about.html
+- Get Quote: /get-quote.html
+- Contact Us: /contact.html
+- Privacy Policy: /privacy-policy.html
+- Terms of Service: /terms-of-service.html
+
+## Important Pages
+- Railway Noise Barriers: /railway-noise-barriers.html
+- Highway Noise Barriers: /highway-noise-barriers.html
+- Solar Noise Barriers: /solar-noise-barriers.html
+- Industrial Noise Barriers: /industrial-noise-barriers.html
+- Residential Noise Barriers: /residential-noise-barriers.html
+- Factory Tour: /factory-tour.html
+- Certifications: /certifications.html
+
+## Contact Information
+- Phone: +86-755-86366707
+- Email: weilai04525@163.com
+- Address: Room 1405, Building B2, Yunzhi Tech Park, Guangming District, Shenzhen, Guangdong, China
+- Miss Tang (Sales): +86 17727812004 (WeChat/WhatsApp)
+- Mr. Yu (Engineering): +86 13828819804 (WeChat/WhatsApp)

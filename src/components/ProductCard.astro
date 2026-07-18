@@ -1,0 +1,12 @@
+<div class="rsb-card">
+  <div class="rsb-card__media">
+    <div class="rsb-card__img" style="background-image:url('${Astro.props.image}')"></div>
+    <span class="rsb-card__tag">${Astro.props.tag || 'Popular'}</span>
+  </div>
+  <div class="rsb-card__body">
+    <span class="rsb-card__meta">${Astro.props.meta || 'Noise Barrier'}</span>
+    <h3 class="rsb-card__title">${Astro.props.title}</h3>
+    <p class="rsb-card__text">${Astro.props.description}</p>
+    <a href="${Astro.props.url}" class="rsb-card__link">${Astro.props.linkText || 'Learn More →'}</a>
+  </div>
+</div>
